@@ -1,2 +1,6 @@
 # task1part2
+<<<<<<< HEAD
 song 1
+=======
+song 2
+>>>>>>> sadsongs
